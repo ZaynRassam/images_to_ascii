@@ -7,3 +7,5 @@ Original Image:
 
 ASCII image:
 ![Capture](https://github.com/user-attachments/assets/5b9d15b1-c7d2-487b-953d-4076eb0b7711)
+
+![Capture](https://github.com/user-attachments/assets/41f5f2a4-5157-4156-9e37-1b293dc7a4ac)
