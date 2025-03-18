@@ -20,13 +20,13 @@ for i,row in enumerate(grey_image):
         if brightness < 50:
             row_list.append("*")
         if brightness < 100 and brightness > 49:
-            row_list.append("$")
+            row_list.append("£")
         if brightness < 150 and brightness > 99:
             row_list.append("$")
         if brightness < 200 and brightness > 149:
-            row_list.append("$")
+            row_list.append("%")
         if brightness < 256 and brightness > 199:
-            row_list.append("$")
+            row_list.append("#")
     result.append(''.join(row_list))
 
 image_name_without_extension = image_name.rsplit(".", 1)[0]
